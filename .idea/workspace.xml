@@ -13,7 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6aa313ae-f311-418c-82bc-a8492722a33d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UpperFootDirection.cpp" afterPath="$PROJECT_DIR$/UpperFootDirection.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,34 +51,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UpperFootDirection.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UpperFootDirection.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpperFootDirection.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="6" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+            <state relative-caret-position="241">
+              <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
               <folding>
                 <element signature="e#137#170#0" expanded="true" />
                 <element signature="e#809#846#0" expanded="true" />
-                <element signature="e#1578#1600#0" expanded="true" />
-                <element signature="e#2714#2745#0" expanded="true" />
-                <element signature="e#2996#3042#0" expanded="true" />
-                <element signature="e#3623#3660#0" expanded="true" />
-                <element signature="e#3793#3884#0" expanded="true" />
-                <element signature="e#4016#4051#0" expanded="true" />
-                <element signature="e#4220#4298#0" expanded="true" />
-                <element signature="e#4471#4495#0" expanded="true" />
-                <element signature="e#4991#5040#0" expanded="true" />
-                <element signature="e#5083#5107#0" expanded="true" />
-                <element signature="e#5577#5626#0" expanded="true" />
-                <element signature="e#5726#5750#0" expanded="true" />
-                <element signature="e#10901#11044#0" expanded="true" />
-                <element signature="e#11180#11216#0" expanded="true" />
+                <element signature="e#1576#1598#0" expanded="true" />
+                <element signature="e#2712#2743#0" expanded="true" />
+                <element signature="e#2994#3040#0" expanded="true" />
+                <element signature="e#3621#3658#0" expanded="true" />
+                <element signature="e#3791#3882#0" expanded="true" />
+                <element signature="e#4014#4049#0" expanded="true" />
+                <element signature="e#4218#4296#0" expanded="true" />
+                <element signature="e#4469#4493#0" expanded="true" />
+                <element signature="e#4989#5038#0" expanded="true" />
+                <element signature="e#5081#5105#0" expanded="true" />
+                <element signature="e#5575#5624#0" expanded="true" />
+                <element signature="e#5724#5748#0" expanded="true" />
+                <element signature="e#10899#11042#0" expanded="true" />
+                <element signature="e#11178#11214#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -188,8 +188,8 @@
         <option value="$PROJECT_DIR$/common.hpp" />
         <option value="$PROJECT_DIR$/server/routes/index.js" />
         <option value="$PROJECT_DIR$/Dockerfile" />
-        <option value="$PROJECT_DIR$/UpperFootDirection.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/UpperFootDirection.cpp" />
       </list>
     </option>
   </component>
@@ -507,12 +507,12 @@
       <workItem from="1502070620076" duration="32309000" />
       <workItem from="1502856648333" duration="2000" />
       <workItem from="1502857459665" duration="3345000" />
-      <workItem from="1503208933611" duration="33323000" />
+      <workItem from="1503208933611" duration="34154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172288000" />
+    <option name="totallyTimeSpent" value="173119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -875,36 +875,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UpperFootDirection.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="6" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-          <folding>
-            <element signature="e#137#170#0" expanded="true" />
-            <element signature="e#809#846#0" expanded="true" />
-            <element signature="e#1578#1600#0" expanded="true" />
-            <element signature="e#2714#2745#0" expanded="true" />
-            <element signature="e#2996#3042#0" expanded="true" />
-            <element signature="e#3623#3660#0" expanded="true" />
-            <element signature="e#3793#3884#0" expanded="true" />
-            <element signature="e#4016#4051#0" expanded="true" />
-            <element signature="e#4220#4298#0" expanded="true" />
-            <element signature="e#4471#4495#0" expanded="true" />
-            <element signature="e#4991#5040#0" expanded="true" />
-            <element signature="e#5083#5107#0" expanded="true" />
-            <element signature="e#5577#5626#0" expanded="true" />
-            <element signature="e#5726#5750#0" expanded="true" />
-            <element signature="e#10901#11044#0" expanded="true" />
-            <element signature="e#11180#11216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpperFootDirection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding>
+            <element signature="e#137#170#0" expanded="true" />
+            <element signature="e#809#846#0" expanded="true" />
+            <element signature="e#1576#1598#0" expanded="true" />
+            <element signature="e#2712#2743#0" expanded="true" />
+            <element signature="e#2994#3040#0" expanded="true" />
+            <element signature="e#3621#3658#0" expanded="true" />
+            <element signature="e#3791#3882#0" expanded="true" />
+            <element signature="e#4014#4049#0" expanded="true" />
+            <element signature="e#4218#4296#0" expanded="true" />
+            <element signature="e#4469#4493#0" expanded="true" />
+            <element signature="e#4989#5038#0" expanded="true" />
+            <element signature="e#5081#5105#0" expanded="true" />
+            <element signature="e#5575#5624#0" expanded="true" />
+            <element signature="e#5724#5748#0" expanded="true" />
+            <element signature="e#10899#11042#0" expanded="true" />
+            <element signature="e#11178#11214#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
