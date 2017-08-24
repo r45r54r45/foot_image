@@ -12,8 +12,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6aa313ae-f311-418c-82bc-a8492722a33d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/after.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/before.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/card1.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/card2.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/card3.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/face_me.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/foot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/foot2.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/foot3.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/foot4.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/foot_up_1.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/foot_up_2.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/foot_up_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/foot_up_4.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/lenna.bmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/not_used/skin-detect.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/not_used/skin-detect.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resultImage/1501150198945.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resultImage/1501150208281.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resultImage/1501150233980.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resultImage/1501207178615.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resultImage/eunjin.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resultImage/mine.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resultImage/mine2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resultImage/sungyong.jpeg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UpperFootDirection.cpp" afterPath="$PROJECT_DIR$/UpperFootDirection.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -52,39 +77,39 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="42" column="16" lean-forward="false" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UpperFootDirection.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpperFootDirection.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+            <state relative-caret-position="387">
+              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
               <folding>
                 <element signature="e#137#170#0" expanded="true" />
                 <element signature="e#809#846#0" expanded="true" />
                 <element signature="e#1578#1600#0" expanded="true" />
-                <element signature="e#2582#2613#0" expanded="true" />
-                <element signature="e#2864#2910#0" expanded="true" />
-                <element signature="e#3491#3528#0" expanded="true" />
-                <element signature="e#3661#3752#0" expanded="true" />
-                <element signature="e#3884#3919#0" expanded="true" />
-                <element signature="e#4088#4166#0" expanded="true" />
-                <element signature="e#4339#4363#0" expanded="true" />
-                <element signature="e#4859#4908#0" expanded="true" />
-                <element signature="e#4951#4975#0" expanded="true" />
-                <element signature="e#5445#5494#0" expanded="true" />
-                <element signature="e#5594#5618#0" expanded="true" />
-                <element signature="e#10769#10912#0" expanded="true" />
-                <element signature="e#11048#11084#0" expanded="true" />
+                <element signature="e#2714#2745#0" expanded="true" />
+                <element signature="e#2996#3042#0" expanded="true" />
+                <element signature="e#3623#3660#0" expanded="true" />
+                <element signature="e#3793#3884#0" expanded="true" />
+                <element signature="e#4016#4051#0" expanded="true" />
+                <element signature="e#4220#4298#0" expanded="true" />
+                <element signature="e#4471#4495#0" expanded="true" />
+                <element signature="e#4991#5040#0" expanded="true" />
+                <element signature="e#5083#5107#0" expanded="true" />
+                <element signature="e#5577#5626#0" expanded="true" />
+                <element signature="e#5726#5750#0" expanded="true" />
+                <element signature="e#10901#11044#0" expanded="true" />
+                <element signature="e#11180#11216#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imgcodecs_c.h" pinned="false" current-in-tab="false">
+        <entry file="file:///opt/local/include/opencv2/imgcodecs/imgcodecs_c.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="81" column="27" lean-forward="false" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -112,35 +137,15 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="80" column="7" lean-forward="true" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
+            <state relative-caret-position="248">
+              <caret line="86" column="47" lean-forward="true" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".dockerignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.dockerignore">
+      <file leaf-file-name="SideFootDirection.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SideFootDirection.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -222,8 +227,8 @@
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-263" />
-    <option name="y" value="-1057" />
+    <option name="x" value="-121" />
+    <option name="y" value="-1031" />
     <option name="width" value="1490" />
     <option name="height" value="1057" />
   </component>
@@ -251,11 +256,6 @@
             <path>
               <item name="MainProgram" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="opencv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MainProgram" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="opencv" type="462c0819:PsiDirectoryNode" />
-              <item name="resultImage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MainProgram" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
@@ -523,12 +523,12 @@
       <workItem from="1502070620076" duration="32309000" />
       <workItem from="1502856648333" duration="2000" />
       <workItem from="1502857459665" duration="3345000" />
-      <workItem from="1503208933611" duration="31458000" />
+      <workItem from="1503208933611" duration="32698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170423000" />
+    <option name="totallyTimeSpent" value="171663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -540,7 +540,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-263" y="-1057" width="1490" height="1057" extended-state="0" />
+    <frame x="-121" y="-1031" width="1490" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23618785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -581,35 +581,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///opt/local/include/opencv2/core/fast_math.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="227" column="6" lean-forward="true" selection-start-line="227" selection-start-column="6" selection-end-line="227" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="18" lean-forward="false" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contour.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/underscore/sequence.hpp" />
     <entry file="file://$PROJECT_DIR$/underscore/underscore.hpp" />
     <entry file="file://$PROJECT_DIR$/underscore/file.hpp" />
     <entry file="file://$PROJECT_DIR$/SideFootDirection.hpp">
@@ -786,14 +757,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SideFootDirection.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/resultImage/eeeeeeeeee.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -881,14 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="80" column="7" lean-forward="true" selection-start-line="80" selection-start-column="7" selection-end-line="80" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -897,27 +852,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="86" column="47" lean-forward="true" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SideFootDirection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultImage/1501150208281.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultImage/1501207178615.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resultImage/1501150198945.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/not_used/skin-detect.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/local/include/opencv2/imgcodecs/imgcodecs_c.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="81" column="27" lean-forward="false" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UpperFootDirection.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        <state relative-caret-position="387">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
           <folding>
             <element signature="e#137#170#0" expanded="true" />
             <element signature="e#809#846#0" expanded="true" />
             <element signature="e#1578#1600#0" expanded="true" />
-            <element signature="e#2582#2613#0" expanded="true" />
-            <element signature="e#2864#2910#0" expanded="true" />
-            <element signature="e#3491#3528#0" expanded="true" />
-            <element signature="e#3661#3752#0" expanded="true" />
-            <element signature="e#3884#3919#0" expanded="true" />
-            <element signature="e#4088#4166#0" expanded="true" />
-            <element signature="e#4339#4363#0" expanded="true" />
-            <element signature="e#4859#4908#0" expanded="true" />
-            <element signature="e#4951#4975#0" expanded="true" />
-            <element signature="e#5445#5494#0" expanded="true" />
-            <element signature="e#5594#5618#0" expanded="true" />
-            <element signature="e#10769#10912#0" expanded="true" />
-            <element signature="e#11048#11084#0" expanded="true" />
+            <element signature="e#2714#2745#0" expanded="true" />
+            <element signature="e#2996#3042#0" expanded="true" />
+            <element signature="e#3623#3660#0" expanded="true" />
+            <element signature="e#3793#3884#0" expanded="true" />
+            <element signature="e#4016#4051#0" expanded="true" />
+            <element signature="e#4220#4298#0" expanded="true" />
+            <element signature="e#4471#4495#0" expanded="true" />
+            <element signature="e#4991#5040#0" expanded="true" />
+            <element signature="e#5083#5107#0" expanded="true" />
+            <element signature="e#5577#5626#0" expanded="true" />
+            <element signature="e#5726#5750#0" expanded="true" />
+            <element signature="e#10901#11044#0" expanded="true" />
+            <element signature="e#11180#11216#0" expanded="true" />
           </folding>
         </state>
       </provider>

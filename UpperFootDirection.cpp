@@ -51,11 +51,14 @@ void analyzeUpperFootDirection(Mat const sourceImg ,int& footWidth, string& file
     fileName = "";
     string path = "./server/resultImage/";
     fileName.append(random_string(10));
-    fileName.append(".jpg");
+    fileName.append(".bmp");
 #if(debugging)
     imshow("result", src);
 #endif
-    imwrite(path + fileName, src);
+    vector<int> compression_params;
+    compression_params.push_back(1);
+    compression_params.push_back(100);
+    imwrite(path + fileName, src, compression_params);
 }
 
 #define showImg2 false
