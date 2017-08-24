@@ -17,8 +17,6 @@ add_executable(MainProgram
         CardDetector.h
         )
 
-
 target_link_libraries(MainProgram
         ${OpenCV_LIBS}
         )
-file(COPY img/foot_up_3.jpg DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
