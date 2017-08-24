@@ -1,4 +1,4 @@
-FROM server_base
+FROM shugazine2017/server_base
 RUN echo "ipv6" >> /etc/modules
 RUN apk update && apk add nodejs
 
