@@ -21,7 +21,7 @@
 #include <vector>
 #include <iterator>
 
-#define debugging true
+#define debugging false
 #define showGuideLines false
 
 using namespace cv;

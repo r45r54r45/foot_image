@@ -20,7 +20,7 @@ var storage = multer.diskStorage({
 /* GET home page. */
 router.get('/', function (req, res, next) {
     // 이미지 리스트 역순으로 보내주기
-    fs.readdir('/Users/woohyunkim/Documents/SourceFolder/opencv/opencv/opencv/server/uploaded', function (err, files) {
+    fs.readdir(path.join(__dirname, '../uploaded'), function (err, files) {
         files = files.map((item) => {
             return {
                 url: item,
@@ -38,7 +38,7 @@ router.get('/image/:id', function (req, res, next) {
     exec(`./MainProgram ../server/uploaded/${req.params.id}`, {
         // cwd: '/usr/src/app'
         maxBuffer: 1024 * 1024 * 5,
-        cwd: '/Users/woohyunkim/Documents/SourceFolder/opencv/opencv/opencv/cmake-build-debug'
+        cwd: path.join(__dirname, '../../cmake-build-debug')
     }, function (err, stdout, stderr) {
         if (err) {
             console.log("node couldn't execute the command" + err);
@@ -86,7 +86,7 @@ router.post('/', multer({storage: storage}).single('file'), function (req, res, 
     console.log("image receiving")
     exec(`./MainProgram ../server/${req.file.path}`, {
         // cwd: '/usr/src/app'
-        cwd: '/Users/woohyunkim/Documents/SourceFolder/opencv/opencv/opencv/cmake-build-debug'
+        cwd: path.join(__dirname, '../../cmake-build-debug')
     }, function (err, stdout, stderr) {
         if (err) {
             console.log("node couldn't execute the command" + err);
