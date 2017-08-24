@@ -142,7 +142,7 @@ void analyzeCard(string const filename, bool &result, float &ratio, Mat& resultI
             }
         }
         sort(pointLineList.begin(), pointLineList.end(), sortDistance);
-        u_long maxCount = pointLineList.size();
+        long maxCount = pointLineList.size();
         for (int i = 0; i < maxCount; i++) {
             for (int j = 0; j < maxCount; j++) {
                 if (j <= i)continue;
