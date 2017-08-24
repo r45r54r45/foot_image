@@ -15,7 +15,7 @@ RUN echo "compiling"
 RUN make
 
 WORKDIR /usr/src/app/server
-
+RUN mkdir uploaded
 RUN npm install
 
 CMD ["npm", "start"]

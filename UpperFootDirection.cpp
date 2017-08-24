@@ -49,7 +49,7 @@ void analyzeUpperFootDirection(Mat const sourceImg ,int& footWidth, string& file
     getBiggestFootWidth(thresholdDst, footWidth, src);
 
     fileName = "";
-    string path = "../server/resultImage/";
+    string path = "./server/resultImage/";
     fileName.append(random_string(10));
     fileName.append(".jpg");
 #if(debugging)
