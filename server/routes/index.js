@@ -84,9 +84,9 @@ router.get('/rename/:id/:newName', function (req, res, next) {
 router.post('/', multer({storage: storage}).single('file'), function (req, res, next) {
     const exec = require('child_process').exec;
     console.log("image receiving")
-    exec(`./MainProgram ../server/${req.file.path}`, {
+    exec(`./MainProgram ./server/${req.file.path}`, {
         // cwd: '/usr/src/app'
-        cwd: path.join(__dirname, '../../cmake-build-debug')
+        cwd: path.join(__dirname, '../../')
     }, function (err, stdout, stderr) {
         if (err) {
             console.log("node couldn't execute the command" + err);
