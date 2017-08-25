@@ -16,6 +16,7 @@ RUN make
 
 WORKDIR /usr/src/app/server
 RUN mkdir uploaded
+RUN chmod 777 resultImage
 RUN npm install
 
 CMD ["npm", "start"]
